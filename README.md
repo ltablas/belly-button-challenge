@@ -10,3 +10,5 @@ Instructions are to create:
 All plots are to be updated when a new selection is made via the Test Subject Id dropdown.
 
 Note: Bonus was not attempted.
+
+Final javascript code can be found in static folder, file "app.js".
