@@ -12,3 +12,6 @@ All plots are to be updated when a new selection is made via the Test Subject Id
 Note: Bonus was not attempted.
 
 Final javascript code can be found in static folder, file "app.js".
+
+See App Successfully Deployed to Github Pages:
+https://ltablas.github.io/belly-button-challenge/
